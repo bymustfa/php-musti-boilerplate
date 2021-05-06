@@ -1,0 +1,27 @@
+{
+    "name": "prototurk/php-boilerplate",
+    "description": "PHP Başlangıç Yapısı",
+    "authors": [
+        {
+            "name": "tayfunerbilen",
+            "email": "tayfunerbilen@gmail.com"
+        }
+    ],
+    "require": {
+        "izniburak/router": "^2.2",
+        "jenssegers/blade": "^1.4",
+        "vlucas/valitron": "^1.4",
+        "filp/whoops": "^2.12",
+        "arrilot/dotenv-php": "^2.0",
+        "illuminate/database": "^8.40",
+        "nesbot/carbon": "^2.46",
+        "aura/session": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app",
+            "Core\\": "./core"
+        },
+        "files": ["./app/helpers.php"]
+    }
+}
