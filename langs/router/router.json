@@ -1,0 +1,30 @@
+[
+  {
+    "key": "homepage",
+    "controller": "FrontController@Index"
+  },
+  {
+    "key": "aboutus",
+    "controller": "FrontController@AboutUs"
+  },
+  {
+    "key": "mergers_acquisitions",
+    "controller": "FrontController@Mergers"
+  },
+  {
+    "key": "turnaround_interim_management",
+    "controller": "FrontController@Turnaround"
+  },
+  {
+    "key": "consultancy",
+    "controller": "FrontController@Consultancy"
+  },
+  {
+    "key": "references",
+    "controller": "FrontController@References"
+  },
+  {
+    "key": "contact",
+    "controller": "FrontController@Contact"
+  }
+]

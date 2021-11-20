@@ -1,0 +1,1 @@
+@extends('front.layouts.main')@section('title', "TITLE")@section('main-content')    <h1>CONTENT</h1>@endsection

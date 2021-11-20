@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Anasayfa",
+    "router": "homepage",
+    "slug": [
+      "/",
+      "anasayfa"
+    ]
+  },
+  {
+    "title": "Hakkımızda",
+    "router": "aboutus",
+    "slug": "hakkimizda"
+  },
+  {
+    "title": "Hizmetler",
+    "router": "",
+    "slug": "hizmetler",
+    "not_link" : true,
+    "child": [
+      {
+        "title": "Birleşme ve Satın Alma",
+        "router": "mergers_acquisitions",
+        "slug": "birlesme-ve-satin-alma"
+      },
+      {
+        "title": "Yapılandırma ve Geçici Yöneticilik",
+        "router": "turnaround_interim_management",
+        "slug": "yapilandirma-ve-gecici-yoneticilik"
+      },
+      {
+        "title": "Danışmanlık",
+        "router": "consultancy",
+        "slug": "danismanlik"
+      }
+    ]
+  },
+  {
+    "title": "Referanslar",
+    "router": "references",
+    "slug": "referanslar"
+  },
+  {
+    "title": "İletişim",
+    "router": "contact",
+    "slug": "iletisim"
+  }
+]

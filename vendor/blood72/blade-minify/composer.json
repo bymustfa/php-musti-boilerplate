@@ -1,0 +1,46 @@
+{
+    "name": "blood72/blade-minify",
+    "type": "library",
+    "description": "Minify blade format for personal use",
+    "license": "MIT",
+    "keywords": [
+        "minify"
+    ],
+    "authors": [
+        {
+            "name": "blood72",
+            "email": "blood72@kakao.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/blood72/minify/issues",
+        "source": "https://github.com/blood72/minify"
+    },
+    "suggest": {
+        "mrclay/minify": "This is the parent project of this unofficial package."
+    },
+    "require": {
+        "php": ">=7.1",
+        "mrclay/minify": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5",
+        "friendsofphp/php-cs-fixer": "^2.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blood72\\Minify\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Blood72\\Minify\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "format": "php-cs-fixer fix .",
+        "test": "phpunit"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

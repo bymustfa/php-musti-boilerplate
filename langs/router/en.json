@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Home",
+    "router": "homepage",
+    "slug": [
+      "/",
+      "home",
+      "homepage"
+    ]
+  },
+  {
+    "title": "About Us",
+    "router": "aboutus",
+    "slug": "about-us"
+  },
+  {
+    "title": "Services",
+    "router": "",
+    "slug": "services",
+    "not_link" : true,
+    "child": [
+      {
+        "title": "Mergers & Acquisitions",
+        "router": "mergers_acquisitions",
+        "slug": "mergers-acquisitions"
+      },
+      {
+        "title": "Turnaround Interim Management",
+        "router": "turnaround_interim_management",
+        "slug": "turnaround-interim_management"
+      },
+      {
+        "title": "Consultancy",
+        "router": "consultancy",
+        "slug": "consultancy"
+      }
+    ]
+  },
+  {
+    "title": "References",
+    "router": "references",
+    "slug": "references"
+  },
+  {
+    "title": "Contact",
+    "router": "contact",
+    "slug": "contact"
+  }
+]

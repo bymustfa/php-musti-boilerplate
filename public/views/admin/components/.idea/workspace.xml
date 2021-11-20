@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22d55e71-3b05-4705-8742-dd42a19e6598" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../app/controllers/OptionController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../app/controllers/TagController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../app/models/Option.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../app/models/OptionValue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../app/models/Tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blades/Speed/category.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blades/Speed/tag.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blades/speed-modals.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Partials/NewOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Partials/NewProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Partials/Options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Partials/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../options/new-option.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../products/products.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../app/controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/controllers/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../app/controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../app/controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../app/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../core/Bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../core/Bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../core/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../core/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/2766517d27391a3a76c268186fd110e25286cbb1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/34472c03ff9b2a9ed7819e3bf42a2bd64e301e89.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/4000668a39548fda6a35c9266bf453578a7f03c2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/45ddc10f62423ca2054a4356964ce45e003f8818.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/57e77ecfba1b220c71607ff0dace584838fdb648.php" beforeDir="false" afterPath="$PROJECT_DIR$/../options/options.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/a8cc2e10b5555886146e516085679298706e3db7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/aa30819e247c88fb905dbd150f77318f50c0eaee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/ad5a344a37b26c32a2d88d97430b679758ad99ae.php" beforeDir="false" afterPath="$PROJECT_DIR$/../products/new-product.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/ba839e07812d382acf99e28295a1be164ad6653a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/c436ddc6f112f3d49fdcd2825787cc37ab3b0a23.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/cc2d9b26b8903b7a42b5a85879d4e6ac5bc5d36b.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../categories.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../categories.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blades/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Blades/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blades/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Blades/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blades/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Blades/menu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/Partials/Categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/Partials/Categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/Partials/Messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/Partials/Messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/image-uploader/dist/image-uploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/image-uploader/dist/image-uploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/image-uploader/dist/image-uploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/image-uploader/dist/image-uploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jquery-knob/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jquery-knob/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jquery-knob/jquery.knob.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jquery-knob/jquery.knob.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messages.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../messages.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../users.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../front/components/Blades/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../front/components/Blades/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../front/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../front/index.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1seR4K9lUWGj2z0JEGsRc9Xxs7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d55e71-3b05-4705-8742-dd42a19e6598" name="Default Changelist" comment="" />
+      <created>1621230876216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621230876216</updated>
+      <workItem from="1621230881131" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
